@@ -3,7 +3,7 @@
 <b> Sou apaixonado por tecnologia, principalmente á área de egenharia de dados, espero estar em constante aprendizado e desenvolvendo novos projetos </b>
 
 <div align="left">
-  <a href="www.linkedin.com/in/luiseduardorodriguesmiranda" target="_blank">
+  <a href="https://www.linkedin.com/in/luiseduardorodriguesmiranda/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="luiseduardorm012@gmail.com">
